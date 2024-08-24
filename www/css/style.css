@@ -1,0 +1,26 @@
+/**/
+body{
+    text-align: center;
+    color: hotpink;
+    background-color: rgb(253, 206, 230);
+}
+
+button{
+    width: 300px;
+    height: 35px;
+    background-color:  hotpink;
+}
+
+div{
+   padding: 1%;
+   width: auto;
+   height: auto;
+}
+
+label{
+    font-size: 25px;
+}
+
+h1{
+    font-size: 50;
+}
